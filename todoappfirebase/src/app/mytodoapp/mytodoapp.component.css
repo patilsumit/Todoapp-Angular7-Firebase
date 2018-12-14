@@ -1,0 +1,24 @@
+th
+{
+    text-align: center;
+}
+body
+{
+    font-family: 'Dosis','sans-serif';    
+    
+}
+@media (max-width:525px)
+{
+     .header
+     {
+         height:50px; 
+     }
+     h2#headtitle
+     {
+         padding-left: 70px !important;
+         font-family: 'Dosis','sans-serif';    
+        
+     }
+     
+}
+
